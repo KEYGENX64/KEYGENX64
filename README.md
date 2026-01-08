@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohammad Sadra Amini 👋</h1>
+<h1 align="center">Hi, I'm Mohammad Sadra Amini</h1>
 
 <p align="center">
 Frontend Developer & UI/UX Designer  
@@ -15,16 +15,18 @@ My main focus is on creating **clean, performant, and interactive user experienc
 
 I enjoy transforming designs into high-quality code and bringing interfaces to life with animations and motion.
 
-- 🎯 Focused on Frontend Development & UI/UX  
-- 🧠 Strong understanding of modern JavaScript (ES6+)  
-- 🎨 Passionate about clean UI, animations, and user experience  
-- 🌍 Currently targeting the Iranian market, open to international opportunities in the future  
+<p>
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20UI%2FUX-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Interest-UI%20Animations-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Market-Iran%20%7C%20Future%20International-2ea44f?style=flat-square" />
+</p>
 
 ---
 
-## 🛠 Tech Stack & Skills
+## Tech Stack & Skills
 
-### 🚀 Main Technologies
+### Main Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -44,42 +46,29 @@ I enjoy transforming designs into high-quality code and bringing interfaces to l
 
 ---
 
-### 🎨 UI / UX & Design Tools
+### UI / UX & Design Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UI%20%2F%20UX%20Design-000000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%20%2F%20UX%20Design-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spline-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spline-Basic-lightgrey?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Video_Editing-Basic-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Video_Editing-Very%20Basic-lightgrey?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## Contact & Links
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KEYGENX64&theme=default" />
+<p>
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEYGENX64&layout=compact" />
-</p>
-
----
-
-## 📬 Contact & Links
-
-- 🌐 Portfolio: [Coming Soon]
-- ✉️ Email: mr.samamini@gmail.com
-
----
-
-<p align="center">
-  <strong>“Code is not just about functionality, it's about experience.”</strong>
+<p>
+  <img src="https://img.shields.io/badge/Email-mr.samamini%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white" />
 </p>
